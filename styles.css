@@ -55,7 +55,6 @@ body{
 .discord-p,
 .github-p,
 .glitch-p {
-    cursor: crosshair;
     text-decoration: underline;
 }
 
