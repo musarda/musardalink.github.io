@@ -16,7 +16,6 @@ body{
     display: grid;
     place-items: center;
     background: #000000;
-    background-color: #212121;
     font-family: 'Nunito', sans-serif;
     overflow: hidden;
 }
