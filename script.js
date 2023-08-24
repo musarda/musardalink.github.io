@@ -4,3 +4,7 @@ VanillaTilt.init(document.querySelectorAll(".links ul li"), {
   glare: true,
   "max-glare": 1
 });
+
+document.getElementById('btn').onclick = function () {
+       console.log('OK');
+    };
